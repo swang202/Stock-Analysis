@@ -8,14 +8,14 @@ In order to select the best stock for investment, we created workbook to analyse
 
 - The stocks are performing better in 2017 than in 2018.
 - In 2017, only one stock (TERP) showed negative return, while all others stocks had a positive growth at the end of the year.
-![Stock2017](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017-stock.png?raw=true)
+- ![Stock2017](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017-stock.png?raw=true)
 
 - In 2018 however, only two stocks (ENPH and RUN) showed positive returns at the end 2018. Prices of other stocks decreased from -3.5% to -62.6%.
 - ![Stock2018](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018-stock.png?raw=true)
 
 - The elapsed run time for the refactored code are less than 1s. It is slightly slower in analysing 2017 (0.6721191s) than 2018 (0.637207s).
 - ![time2017](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
-![time2018](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
+- ![time2018](https://github.com/swang202/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 ## Summary
 ### Refactoring code
